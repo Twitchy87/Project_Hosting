@@ -1,3 +1,10 @@
-section{
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap'); */
+
+section {
    background: #ff1b68;
+}
+
+h1 {   
+   color: white;   
+   font-family: "Anton", sans-serif;
 }
